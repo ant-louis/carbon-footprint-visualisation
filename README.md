@@ -1,7 +1,8 @@
 # Data-visualisation
 
 #### The carbon footprint of your meat consumption
-![](./demos/2nd_visualisation.gif)
+
+<img align="center" src="./demos/2nd_visualisation.gif">
 
 ## Setup
 In order to run the visualisations, your machine must have Python (3.6 or greater prefered) installed. You can find a tutorial on the installation and setup of Python [here](https://realpython.com/installing-python/).
