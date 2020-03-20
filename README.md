@@ -1,10 +1,5 @@
 # Data-visualisation
 
-## Demos
-
-#### The importance of meat in GHG emissions
-![](./demos/1st_visualisation.gif)
-
 #### The carbon footprint of your meat consumption
 ![](./demos/2nd_visualisation.gif)
 
