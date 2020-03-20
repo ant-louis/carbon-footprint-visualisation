@@ -29,7 +29,11 @@ pip install -r requirements.txt
 
 ## Demos
 
-Demos of the visualisations are also available in *.gif* format in the *"/demos"* repository for those who just want to check how the visualisations look like.
+#### 1
+![](./demos/1st_visualisation.gif)
+
+#### 2
+![](./demos/2nd_visualisation.gif)
 
 ## Future work
 
