@@ -1,7 +1,14 @@
 # Data-visualisation
 
-## Setup
+## Demos
 
+#### The importance of meat in GHG emissions
+![](./demos/1st_visualisation.gif)
+
+#### The carbon footprint of your meat consumption
+![](./demos/2nd_visualisation.gif)
+
+## Setup
 In order to run the visualisations, your machine must have Python (3.6 or greater prefered) installed. You can find a tutorial on the installation and setup of Python [here](https://realpython.com/installing-python/).
 
 In addition, the following packages should be installed:
@@ -26,14 +33,6 @@ pip install -r requirements.txt
 1. Open the notebook *my-visualisations.ipynb*.
 2. Click on the "Cell" tab and then on "Run All".
 3. Enjoy!
-
-## Demos
-
-#### 1
-![](./demos/1st_visualisation.gif)
-
-#### 2
-![](./demos/2nd_visualisation.gif)
 
 ## Future work
 
