@@ -6,7 +6,7 @@
 ## Setup
 In order to run the visualisations, your machine must have Python (3.6 or greater prefered) installed. You can find a tutorial on the installation and setup of Python [here](https://realpython.com/installing-python/).
 
-In addition, the following packages should be installed:
+In addition, the following packages should be installed: 
 
 - [pandas](https://pypi.org/project/pandas/)
 - [numpy](https://pypi.org/project/numpy/)
