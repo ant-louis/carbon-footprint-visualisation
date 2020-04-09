@@ -1,4 +1,4 @@
-# Data-visualisation
+# Carbon Footprint Visualisation
 
 #### The carbon footprint of your meat consumption
 <p align="center"> <img src="./demos/2nd_visualisation.gif"> </p>
