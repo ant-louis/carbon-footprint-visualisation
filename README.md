@@ -31,4 +31,4 @@ pip install -r requirements.txt
 
 ## Future work
 
-Next, I would like to integrate these interactive visualisations into my website. A first draft of the website containing the first visualisation can be found [here](https://antoiloui.github.io/Data-visualisation/website/).
+Next, I would like to integrate these interactive visualisations into my website. A first draft of the website containing the first visualisation can be found [here](https://antoiloui.github.io/carbon-footprint-visualisation/website/).
